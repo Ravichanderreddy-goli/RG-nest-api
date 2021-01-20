@@ -26,6 +26,10 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Links
+- Source link: https://github.com/Ravichanderreddy-goli/rg-nest-api
+- app running on heroku: https://rg-nest-api.herokuapp.com/
+
 ## Installation
 
 ```bash
